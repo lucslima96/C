@@ -1,4 +1,3 @@
-# C
 # Repositório de Estudos em Linguagem C
 
 Bem-vindo ao meu repositório de estudos em linguagem C! Aqui, compartilho meus arquivos de estudo e consulta relacionados à linguagem C. No momento, o repositório contém exemplos de código, exercícios e anotações que estou utilizando para aprimorar minhas habilidades em programação.
