@@ -1,14 +1,10 @@
 #include <stdio.h>
 
 int main(){
-	int A[6], soma = 0;
-	// atribuindo os valores
-	A[0] = 1;
-	A[1] = 0;
-	A[2] = 5;
-	A[3] = -2;
-	A[4] = -5;
-	A[5] = 7;
+	//atribuindo valores ao vetor
+	int A[6] = {1, 0, 5, -2, -5, 7};
+	int soma = 0;
+
 	//somando os valores das posicões A[0] A[1] A[5]
 	soma = A[0] + A[1] + A[5];
 	printf("A soma das posicões A[0] A[1] e A[5] é %d \n", soma);
